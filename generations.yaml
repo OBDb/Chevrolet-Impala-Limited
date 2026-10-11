@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Impala_(ninth_generation)"
+
+generations:
+  - name: "Impala Limited"
+    start_year: 2014
+    end_year: 2016
+    description: "The ninth-generation Impala kept on sale for fleets beside the tenth, with the 3.6 L V6."
